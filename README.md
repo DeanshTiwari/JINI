@@ -1,2 +1,7 @@
-# JINI
-This Software aims at developing a personal assistant for  Window based systems. The main purpose of the software is to  perform the tasks of the user at certain commands, provided in  either of the ways, speech or text. It will ease most of the work of  the user as a complete task can be done on a single command.  Jini draws its inspiration from Virtual assistants like Cortana for  Windows and Siri for iOS. Users can interact with the assistant  either through voice commands or keyboard input.   Currently, the project aims to provide the Window Users with a  Virtual Assistant that would not only aid in their daily routine tasks  like searching the web, extracting weather data, vocabulary help  and many others but also help in automation of various activities.  
+This is a personal assisatnt based on window based application coded in python
+This will perform task like opening google,oping files on system,playing music,
+Conversation with user,cracking jikes to name a few.
+
+This uses the PyQt5 GUI of python
+import PyQt5 by ht command -->pip install PyQt5
+additional libraries like pywhatkit,wikipedia,os,etc.
